@@ -1,1 +1,1 @@
-A mail dev server based on MailDev(https://github.com/maildev/maildev). MailDev is a simple way to test your project's generated email during development, with an easy to use web interface that runs on your machine built on top of Node.js. Use setup.sh to delopy it onto your OpenShift.
+A mail dev server based on MailDev(https://github.com/maildev/maildev). MailDev is a simple way to test your project's generated email during development, with an easy to use web interface that runs on your machine built on top of Node.js. Use setupMail.sh to delopy it onto your OpenShift.
